@@ -1,0 +1,40 @@
+
+h1 {
+  color: rgb(4, 5, 4);
+}
+
+h3 {
+  color: rgb(4, 5, 4);
+}
+
+h5 { 
+  color:rgb(4, 5, 4)
+}
+
+h5 {text-align: left;
+}
+
+ol {
+  color: rgb(24, 116, 24);
+}
+
+.about-node {
+  background-color: #b0ddb2;
+  padding: 30px 30px;
+  color: rgb(240, 240, 240);
+  text-align: center;
+}
+
+.about-node2 {
+  background-color:white;
+  padding: 10px 10px;
+  color: rgb(240, 240, 240);
+  
+}
+.about-node img {
+  width: 600px;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
